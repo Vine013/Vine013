@@ -5,7 +5,7 @@
     <span>Vinicius Santiago</span>
 </h1>
 
-<p align="justify">Desenvolvedor Junior por tecnologia, automação de tarefas e IAs. Possuo experiência principalmente em Python, C# e JavaScript. Meu objetivo e facilitar ao máximo a vida das pessoas através da automação das tarefas repetitivas, permitindo assim focarmos em tarefas mais complexas!
+<p align="justify">Desenvolvedor Junior apaixonado por tecnologia, automação de tarefas e IAs. Possuo experiência principalmente em Python, C# e JavaScript. Meu objetivo e facilitar ao máximo a vida das pessoas através da automação das tarefas repetitivas, permitindo assim focarmos em tarefas mais complexas!
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
