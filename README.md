@@ -20,21 +20,24 @@
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
 -->
 
+
 ### Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=5B9BB6&color:ffc001)](https://www.linkedin.com/in/vinicius-santiago01/)
 
 ### GitHub Stats
 
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vine013&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=F5B9BB6&hide=html,css,scss&bg_color=000&text_color=5B9BB6B&border_radius=3&border_color=5B9BB6&count_private=true)
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vine013&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=5B9BB66&text_color=5B9BB6&border_radius=3&border_color=5B9BB6&icon_color=5B9BB6&theme=jolly)
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vine013&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=F5B9BB6&hide=html,css,scss&bg_color=000&text_color=5B9BB6B&border_radius=3&border_color=5B9BB6&count_private=true)]
+
+
 
 <details align="left">
   <summary></summary> 
  
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
- 
-  <div align="right">Made with 🩵 by <a href="https://github.com/Vine013e">V013</a>.</div>
 
 </details>
+
+ <div align="right">Made with 🩵 by <a href="https://github.com/Vine013">V</a></div>
